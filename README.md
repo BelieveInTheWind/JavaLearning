@@ -1,2 +1,1 @@
-# JavaLearning
-Learn Java
+Learn Java Programming MOOC – University of Helsinki
