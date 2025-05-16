@@ -1,2 +1,3 @@
 Learn Java Programming MOOC – University of Helsinki
-Test 123
+Test 
+Update half of part 1
